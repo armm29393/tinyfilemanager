@@ -481,7 +481,9 @@
         "Files": "ไฟล์",
         "Change": "เปลี่ยน",
         "Settings": "การตั้งค่า",
-        "Language": "ภาษา"
+        "Language": "ภาษา",
+        "ErrorReporting": "รายงานความผิดพลาด",
+        "ShowHiddenFiles": "แสดงไฟล์ที่ถูกซ่อน"
       }
     },
     {
